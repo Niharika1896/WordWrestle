@@ -22,7 +22,7 @@ There are 4 power cards:
 1. GoTwice - Player can play 2 turns
 2. Flip - Reverse the server word and play a turn
 3. Remove - Remove the last letter and play a turn
-4. Mirror - Change b's to d's, w's to m's and vice versa and play a turn/ 
+4. Mirror - Change b's to d's, w's to m's and vice versa and play a turn
 
 - The clients should ensure that they do not use the same power twice. They will be asked to make another play in case of violation.
 - Here, playing a turn means submitting a word to play next. 
@@ -47,7 +47,7 @@ SERVER WORD:    concurrent\
 Player2: Power Used -  nopower   | Word Played -  rental   | Points Gained -  16   | Player2 Score -  16\
 SERVER WORD:    concurrental\
 Player2: Power Used -  gotwice   | Word Played -  talk   | Points Gained -  9   | Player2 Score -  25\
-SERVER WORD:    concurrentalk\
+SERVER WORD:    concurrentalk
 
 _______________________________________________Round  2 _______________________________________________\
 Player1: Power Used -  nopower   | Word Played -  talky   | Points Gained -  16   | Player1 Score -  52\
