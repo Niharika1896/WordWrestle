@@ -116,7 +116,7 @@ def run(num_rounds, num_players):
 
         current_round += 1
 
-        printResults(scores)
+    printResults(scores)
 
 
 def printResults(scores):
@@ -142,5 +142,5 @@ def printResults(scores):
 
 if __name__ == '__main__':
     num_rounds = 7
-    num_players = 5
+    num_players = 10
     run(num_rounds, num_players)
